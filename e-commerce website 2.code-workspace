@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../e-commerce website 2"
+		},
+		{
+			"path": "../boostrap card"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
